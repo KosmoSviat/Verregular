@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Verregular
+
+ //  Created by Sviatoslav Samoilov on 28.07.2023.
+
+*/
+
+"Select verbs" = "Выбрать глаголы";
+"Train verbs" = "Тренировка глаголов";
+"Check" = "Проверить";
+"Try again" = "Попробуй снова";
+"Skip" = "Пропустить";
+"Right" = "Верно";
+"Scores: " = "Баллы: ";
+"Verb " = "Глагол ";
+"Training is over" = "Тренировка окончена";
+"Scores received: " = "Получено баллов: ";
+"Right answer" = "Правильный ответ";

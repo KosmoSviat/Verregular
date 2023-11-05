@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Verregular
+
+ //  Created by Sviatoslav Samoilov on 28.07.2023.
+
+*/
+
+"Select verbs" = "Select verbs";
+"Train verbs" = "Train verbs";
+"Check" = "Check";
+"Try again" = "Try again";
+"Skip" = "Skip";
+"Right" = "Right";
+"Scores: " = "Scores: ";
+"Verb " = "Verb ";
+"Training is over" = "Training is over";
+"Scores received: " = "Scores received: ";
